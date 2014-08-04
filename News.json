@@ -1,5 +1,5 @@
 {"champions": [
-        {"id":1,"active":true,"Title":"false","Body":"false"},
-        {"id":2,"active":true,"Title":"false","Body":"true"}
+        {"id":1,"active":true,"Title":"false","Body":"false","Link":"www.google.ca"},
+        {"id":2,"active":true,"Title":"false","Body":"true",Link":"null"}
     ]
 }
